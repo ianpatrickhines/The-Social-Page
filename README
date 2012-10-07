@@ -1,7 +1,7 @@
 =============================
 
 The Social Page
-Version 1.1.1
+Version 1.1.3
 October 7, 2012
 Created by Ian Patrick Hines
 Original: www.ianpatrickhines.com
@@ -34,3 +34,5 @@ v1.1
 - Tidied up the HTML
 - Simplified the file structure.
 
+v1.1.3
+- Updated the README file
